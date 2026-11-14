@@ -1,0 +1,234 @@
+﻿[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "On what date did Ford Motor Company produce car number five million?",
+    "expected_answer": "May 31, 1921.",
+    "gold_source_id": "pg7213-my-life-and-work",
+    "gold_page": "pg7213-my-life-and-work:unit-009",
+    "evidence_quote": "On May 31, 1921, the Ford Motor Company turned out Car No. 5,000,000.",
+    "filter": null,
+    "question_type": "direct_or_paraphrase"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "When did Ford's first gasoline buggy first run satisfactorily?",
+    "expected_answer": "In the spring of 1893.",
+    "gold_source_id": "pg7213-my-life-and-work",
+    "gold_page": "pg7213-my-life-and-work:unit-009",
+    "evidence_quote": "first ran satisfactorily along in the spring of 1893",
+    "filter": null,
+    "question_type": "direct_or_paraphrase"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "How old was Ford when he first encountered a road engine near Detroit?",
+    "expected_answer": "He was twelve years old.",
+    "gold_source_id": "pg7213-my-life-and-work",
+    "gold_page": "pg7213-my-life-and-work:unit-010",
+    "evidence_quote": "was then twelve years old",
+    "filter": null,
+    "question_type": "direct_or_paraphrase"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Why did Ford conclude steam was unsuitable for a light horseless carriage?",
+    "expected_answer": "His experience convinced him steam was unsuitable for a light vehicle, so he continued pursuing a horseless carriage.",
+    "gold_source_id": "pg7213-my-life-and-work",
+    "gold_page": "pg7213-my-life-and-work:unit-012",
+    "evidence_quote": "steam was not suitable for light vehicles",
+    "filter": null,
+    "question_type": "direct_or_paraphrase"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Which two engineering problems did Ford identify as the hardest to solve in developing his early car?",
+    "expected_answer": "Making and breaking the spark, and avoiding excess weight.",
+    "gold_source_id": "pg7213-my-life-and-work",
+    "gold_page": "pg7213-my-life-and-work:unit-014",
+    "evidence_quote": "avoidance of excess weight",
+    "filter": null,
+    "question_type": "direct_or_paraphrase"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "What imbalance in business practice surprised Ford?",
+    "expected_answer": "Businesses gave much attention to finance and little attention to service.",
+    "gold_source_id": "pg7213-my-life-and-work",
+    "gold_page": "pg7213-my-life-and-work:unit-017",
+    "evidence_quote": "large attention given to finance and the small attention to service",
+    "filter": null,
+    "question_type": "direct_or_paraphrase"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "What did Ford say many managers tried to achieve instead of competing by doing good work?",
+    "expected_answer": "They sought monopoly through artificial means.",
+    "gold_source_id": "pg7213-my-life-and-work",
+    "gold_page": "pg7213-my-life-and-work:unit-020",
+    "evidence_quote": "getting a monopoly through artificial means",
+    "filter": null,
+    "question_type": "direct_or_paraphrase"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "What was the purpose of the 999, and what happened a week after its race?",
+    "expected_answer": "It demonstrated Ford could build a fast motorcar; a week after the race he formed the Ford Motor Company.",
+    "gold_source_id": "pg7213-my-life-and-work",
+    "gold_page": "pg7213-my-life-and-work:unit-023",
+    "evidence_quote": "A week after the race I formed the Ford Motor Company.",
+    "filter": null,
+    "question_type": "direct_or_paraphrase"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "How did Ford determine the appropriate steel qualities for different car parts?",
+    "expected_answer": "He dismantled models and tested them to determine whether each part needed hard, tough, or elastic steel.",
+    "gold_source_id": "pg7213-my-life-and-work",
+    "gold_page": "pg7213-my-life-and-work:unit-029",
+    "evidence_quote": "tested in detail to determine what kind of steel was best for every part",
+    "filter": null,
+    "question_type": "direct_or_paraphrase"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Which four constructional units did Ford identify in the Model T?",
+    "expected_answer": "The power plant, frame, front axle, and rear axle.",
+    "gold_source_id": "pg7213-my-life-and-work",
+    "gold_page": "pg7213-my-life-and-work:unit-030",
+    "evidence_quote": "the power plant, the frame, the front axle, and the rear axle",
+    "filter": {
+      "section": "Chapter Iv"
+    },
+    "question_type": "metadata_filter"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "What was Ford's 1909 policy for models and chassis?",
+    "expected_answer": "Build only the Model T, with the same chassis for every car.",
+    "gold_source_id": "pg7213-my-life-and-work",
+    "gold_page": "pg7213-my-life-and-work:unit-031",
+    "evidence_quote": "chassis would be exactly the same for all cars",
+    "filter": {
+      "section": "Chapter Iv"
+    },
+    "question_type": "metadata_filter"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Under the Model T color policy, what color could a customer choose?",
+    "expected_answer": "Black only.",
+    "gold_source_id": "pg7213-my-life-and-work",
+    "gold_page": "pg7213-my-life-and-work:unit-031",
+    "evidence_quote": "so long as it is black",
+    "filter": {
+      "section": "Chapter Iv"
+    },
+    "question_type": "metadata_filter"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "How did Ford describe the factory's growth between 1908 and 1911?",
+    "expected_answer": "Factory space grew from 2.65 to 32 acres; average employees grew from 1,908 to 4,110; cars built rose from just over 6,000 to nearly 35,000.",
+    "gold_source_id": "pg7213-my-life-and-work",
+    "gold_page": "pg7213-my-life-and-work:unit-032",
+    "evidence_quote": "factory space increased from 2.65 to 32 acres",
+    "filter": null,
+    "question_type": "direct_or_paraphrase"
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "What did Ford credit for the rapid move into large-scale production?",
+    "expected_answer": "The application of intelligently directed power and machinery.",
+    "gold_source_id": "pg7213-my-life-and-work",
+    "gold_page": "pg7213-my-life-and-work:unit-032",
+    "evidence_quote": "application of intelligently directed power and machinery",
+    "filter": null,
+    "question_type": "direct_or_paraphrase"
+  },
+  {
+    "id": "q15",
+    "split": "test",
+    "question": "According to Ford, what did full-force, year-round work do for manufacturing?",
+    "expected_answer": "It guaranteed work for capable workers, built a permanent manufacturing organization, and continually improved production.",
+    "gold_source_id": "pg7213-my-life-and-work",
+    "gold_page": "pg7213-my-life-and-work:unit-070",
+    "evidence_quote": "twelve months of the year guarantees workmen of ability",
+    "filter": {
+      "section": "Chapter Xi"
+    },
+    "question_type": "metadata_filter"
+  },
+  {
+    "id": "q16",
+    "split": "dev",
+    "question": "Which groups did Ford say needed to operate throughout the year to maximize business results?",
+    "expected_answer": "The factory must build, sales must sell, and dealers must buy cars all year.",
+    "gold_source_id": "pg7213-my-life-and-work",
+    "gold_page": "pg7213-my-life-and-work:unit-070",
+    "evidence_quote": "the sales department must sell, and the dealer must buy cars all the year through",
+    "filter": null,
+    "question_type": "direct_or_paraphrase"
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Why did Ford abolish forms and statistics during the factory reorganization?",
+    "expected_answer": "He removed those that did not directly help produce a car.",
+    "gold_source_id": "pg7213-my-life-and-work",
+    "gold_page": "pg7213-my-life-and-work:unit-073",
+    "evidence_quote": "did not directly aid in the production of a car",
+    "filter": null,
+    "question_type": "direct_or_paraphrase"
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "What railway maintenance work did Ford say was done in the company's own shops?",
+    "expected_answer": "Locomotives and rolling stock were overhauled in its own shops.",
+    "gold_source_id": "pg7213-my-life-and-work",
+    "gold_page": "pg7213-my-life-and-work:unit-095",
+    "evidence_quote": "rolling stock are being overhauled in our own shops",
+    "filter": {
+      "section": "Chapter Xvi"
+    },
+    "question_type": "metadata_filter"
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "How did Ford illustrate increased efficiency in one railway shop?",
+    "expected_answer": "Twenty men were doing more work than fifty-nine had done before.",
+    "gold_source_id": "pg7213-my-life-and-work",
+    "gold_page": "pg7213-my-life-and-work:unit-095",
+    "evidence_quote": "20 men are now doing more work than 59 did before",
+    "filter": null,
+    "question_type": "direct_or_paraphrase"
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "What local-production policy did Ford recommend for grain-growing regions?",
+    "expected_answer": "Decentralize production: mill grain into flour where it is grown.",
+    "gold_source_id": "pg7213-my-life-and-work",
+    "gold_page": "pg7213-my-life-and-work:unit-098",
+    "evidence_quote": "Grain should be ground to flour where it is grown",
+    "filter": {
+      "section": "Chapter Xvi"
+    },
+    "question_type": "metadata_filter"
+  }
+]

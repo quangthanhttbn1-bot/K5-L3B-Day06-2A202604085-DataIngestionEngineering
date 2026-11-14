@@ -1,0 +1,979 @@
+{
+  "source_id": "pg7213-my-life-and-work",
+  "title": "My Life and Work",
+  "authors": [
+    "Henry Ford",
+    "Samuel Crowther"
+  ],
+  "topic": "Technology",
+  "source_path_or_url": "https://www.gutenberg.org/cache/epub/7213/pg7213-images.html",
+  "local_snapshot": "data/pg7213-images.html",
+  "license_or_permission": "Project Gutenberg License; eBook 7213. Verify applicable local terms before redistribution.",
+  "accessed_at": "2026-11-14",
+  "snapshot_sha256": "250abb158f8015be3fa4f9b63938c2f33b9d2bf37cb90182aba3971b47c65366",
+  "unitization": "HTML text from Gutenberg START/END markers; ordered paragraph groups, min 1500 chars, max 5000 where paragraph boundaries permit; front matter before body marker excluded.",
+  "units": [
+    {
+      "page_id": "pg7213-my-life-and-work:unit-001",
+      "section": "Introduction",
+      "char_count": 4856,
+      "char_start": 0,
+      "char_end": 4856,
+      "content_sha256": "f2867f104447"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-002",
+      "section": "Introduction",
+      "char_count": 4916,
+      "char_start": 4858,
+      "char_end": 9774,
+      "content_sha256": "8ca18a285ea8"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-003",
+      "section": "Introduction",
+      "char_count": 4984,
+      "char_start": 9776,
+      "char_end": 14760,
+      "content_sha256": "99b663c29807"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-004",
+      "section": "Introduction",
+      "char_count": 4378,
+      "char_start": 14762,
+      "char_end": 19140,
+      "content_sha256": "310e06c6b63f"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-005",
+      "section": "Introduction",
+      "char_count": 4603,
+      "char_start": 19142,
+      "char_end": 23745,
+      "content_sha256": "5c7943124f86"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-006",
+      "section": "Introduction",
+      "char_count": 4970,
+      "char_start": 23747,
+      "char_end": 28717,
+      "content_sha256": "52d474f6ccfa"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-007",
+      "section": "Introduction",
+      "char_count": 4789,
+      "char_start": 28719,
+      "char_end": 33508,
+      "content_sha256": "6ced68bfa597"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-008",
+      "section": "Introduction",
+      "char_count": 3600,
+      "char_start": 33510,
+      "char_end": 37110,
+      "content_sha256": "23568c9d28e0"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-009",
+      "section": "Chapter I",
+      "char_count": 2714,
+      "char_start": 37112,
+      "char_end": 39826,
+      "content_sha256": "770980fef9f0"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-010",
+      "section": "Chapter I",
+      "char_count": 4336,
+      "char_start": 39828,
+      "char_end": 44164,
+      "content_sha256": "a3448d5ca493"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-011",
+      "section": "Chapter I",
+      "char_count": 4493,
+      "char_start": 44166,
+      "char_end": 48659,
+      "content_sha256": "26164c76d1c7"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-012",
+      "section": "Chapter I",
+      "char_count": 4546,
+      "char_start": 48661,
+      "char_end": 53207,
+      "content_sha256": "aa36f428c16c"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-013",
+      "section": "Chapter I",
+      "char_count": 1968,
+      "char_start": 53209,
+      "char_end": 55177,
+      "content_sha256": "09d3b8f15e38"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-014",
+      "section": "Chapter I",
+      "char_count": 3434,
+      "char_start": 55179,
+      "char_end": 58613,
+      "content_sha256": "c49d834b21d5"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-015",
+      "section": "Chapter Ii",
+      "char_count": 4663,
+      "char_start": 58615,
+      "char_end": 63278,
+      "content_sha256": "fed53d13c10f"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-016",
+      "section": "Chapter Ii",
+      "char_count": 4169,
+      "char_start": 63280,
+      "char_end": 67449,
+      "content_sha256": "3dc8e1f99b4a"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-017",
+      "section": "Chapter Ii",
+      "char_count": 4734,
+      "char_start": 67451,
+      "char_end": 72185,
+      "content_sha256": "211868a0acc4"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-018",
+      "section": "Chapter Ii",
+      "char_count": 4475,
+      "char_start": 72187,
+      "char_end": 76662,
+      "content_sha256": "60f582466689"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-019",
+      "section": "Chapter Ii",
+      "char_count": 4298,
+      "char_start": 76664,
+      "char_end": 80962,
+      "content_sha256": "80ea61f4d73b"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-020",
+      "section": "Chapter Ii",
+      "char_count": 3669,
+      "char_start": 80964,
+      "char_end": 84633,
+      "content_sha256": "ef5f38afd6b7"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-021",
+      "section": "Chapter Iii",
+      "char_count": 4559,
+      "char_start": 84635,
+      "char_end": 89194,
+      "content_sha256": "4af38df2f6e9"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-022",
+      "section": "Chapter Iii",
+      "char_count": 4057,
+      "char_start": 89196,
+      "char_end": 93253,
+      "content_sha256": "42964cb80953"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-023",
+      "section": "Chapter Iii",
+      "char_count": 4864,
+      "char_start": 93255,
+      "char_end": 98119,
+      "content_sha256": "ed970b2cc6b5"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-024",
+      "section": "Chapter Iii",
+      "char_count": 4208,
+      "char_start": 98121,
+      "char_end": 102329,
+      "content_sha256": "9e4fa9fdddc6"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-025",
+      "section": "Chapter Iii",
+      "char_count": 4949,
+      "char_start": 102331,
+      "char_end": 107280,
+      "content_sha256": "9ca553700e19"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-026",
+      "section": "Chapter Iii",
+      "char_count": 4900,
+      "char_start": 107282,
+      "char_end": 112182,
+      "content_sha256": "abce04208b30"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-027",
+      "section": "Chapter Iii",
+      "char_count": 3789,
+      "char_start": 112184,
+      "char_end": 115973,
+      "content_sha256": "1b20e7e030fd"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-028",
+      "section": "Chapter Iv",
+      "char_count": 4665,
+      "char_start": 115975,
+      "char_end": 120640,
+      "content_sha256": "85a61537e462"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-029",
+      "section": "Chapter Iv",
+      "char_count": 3980,
+      "char_start": 120642,
+      "char_end": 124622,
+      "content_sha256": "a06821dd98c8"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-030",
+      "section": "Chapter Iv",
+      "char_count": 4991,
+      "char_start": 124624,
+      "char_end": 129615,
+      "content_sha256": "1b78fbc087be"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-031",
+      "section": "Chapter Iv",
+      "char_count": 4138,
+      "char_start": 129617,
+      "char_end": 133755,
+      "content_sha256": "a05fd1fb7e54"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-032",
+      "section": "Chapter Iv",
+      "char_count": 4627,
+      "char_start": 133757,
+      "char_end": 138384,
+      "content_sha256": "1a8aac172794"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-033",
+      "section": "Chapter V",
+      "char_count": 4224,
+      "char_start": 138386,
+      "char_end": 142610,
+      "content_sha256": "3baf0e120b0d"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-034",
+      "section": "Chapter V",
+      "char_count": 4614,
+      "char_start": 142612,
+      "char_end": 147226,
+      "content_sha256": "58bceb0dcf55"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-035",
+      "section": "Chapter V",
+      "char_count": 4707,
+      "char_start": 147228,
+      "char_end": 151935,
+      "content_sha256": "16ca83ae9e82"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-036",
+      "section": "Chapter V",
+      "char_count": 4350,
+      "char_start": 151937,
+      "char_end": 156287,
+      "content_sha256": "9a2ad2c3d942"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-037",
+      "section": "Chapter V",
+      "char_count": 3856,
+      "char_start": 156289,
+      "char_end": 160145,
+      "content_sha256": "eb9e1396b283"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-038",
+      "section": "Chapter V",
+      "char_count": 4545,
+      "char_start": 160147,
+      "char_end": 164692,
+      "content_sha256": "01a76a2e3f1a"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-039",
+      "section": "Chapter Vi",
+      "char_count": 4259,
+      "char_start": 164694,
+      "char_end": 168953,
+      "content_sha256": "11aa3142ef85"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-040",
+      "section": "Chapter Vi",
+      "char_count": 4917,
+      "char_start": 168955,
+      "char_end": 173872,
+      "content_sha256": "c8915c47c942"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-041",
+      "section": "Chapter Vi",
+      "char_count": 4485,
+      "char_start": 173874,
+      "char_end": 178359,
+      "content_sha256": "f0c823f9caf9"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-042",
+      "section": "Chapter Vi",
+      "char_count": 4695,
+      "char_start": 178361,
+      "char_end": 183056,
+      "content_sha256": "ac26c130b341"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-043",
+      "section": "Chapter Vi",
+      "char_count": 3779,
+      "char_start": 183058,
+      "char_end": 186837,
+      "content_sha256": "7d018c681d72"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-044",
+      "section": "Chapter Vii",
+      "char_count": 4458,
+      "char_start": 186839,
+      "char_end": 191297,
+      "content_sha256": "577b9d652b20"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-045",
+      "section": "Chapter Vii",
+      "char_count": 3926,
+      "char_start": 191299,
+      "char_end": 195225,
+      "content_sha256": "f16c982af9f3"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-046",
+      "section": "Chapter Vii",
+      "char_count": 4755,
+      "char_start": 195227,
+      "char_end": 199982,
+      "content_sha256": "72d3abcf2677"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-047",
+      "section": "Chapter Vii",
+      "char_count": 4154,
+      "char_start": 199984,
+      "char_end": 204138,
+      "content_sha256": "9033d571afa2"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-048",
+      "section": "Chapter Vii",
+      "char_count": 4766,
+      "char_start": 204140,
+      "char_end": 208906,
+      "content_sha256": "7f72d8b77d71"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-049",
+      "section": "Chapter Vii",
+      "char_count": 1872,
+      "char_start": 208908,
+      "char_end": 210780,
+      "content_sha256": "66022c2a57c0"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-050",
+      "section": "Chapter Viii",
+      "char_count": 4409,
+      "char_start": 210782,
+      "char_end": 215191,
+      "content_sha256": "10d1773727bd"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-051",
+      "section": "Chapter Viii",
+      "char_count": 4174,
+      "char_start": 215193,
+      "char_end": 219367,
+      "content_sha256": "8b2dec01a81a"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-052",
+      "section": "Chapter Viii",
+      "char_count": 3988,
+      "char_start": 219369,
+      "char_end": 223357,
+      "content_sha256": "cf1bd6805ec3"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-053",
+      "section": "Chapter Viii",
+      "char_count": 4249,
+      "char_start": 223359,
+      "char_end": 227608,
+      "content_sha256": "0b021b923455"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-054",
+      "section": "Chapter Viii",
+      "char_count": 4996,
+      "char_start": 227610,
+      "char_end": 232606,
+      "content_sha256": "7bf83aea5f1e"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-055",
+      "section": "Chapter Viii",
+      "char_count": 4950,
+      "char_start": 232608,
+      "char_end": 237558,
+      "content_sha256": "c463b5755219"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-056",
+      "section": "Chapter Ix",
+      "char_count": 4192,
+      "char_start": 237560,
+      "char_end": 241752,
+      "content_sha256": "a2e56d1fc1f8"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-057",
+      "section": "Chapter Ix",
+      "char_count": 4736,
+      "char_start": 241754,
+      "char_end": 246490,
+      "content_sha256": "291a3b05d07d"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-058",
+      "section": "Chapter Ix",
+      "char_count": 4882,
+      "char_start": 246492,
+      "char_end": 251374,
+      "content_sha256": "18225c9b192e"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-059",
+      "section": "Chapter Ix",
+      "char_count": 4981,
+      "char_start": 251376,
+      "char_end": 256357,
+      "content_sha256": "7a61fc054044"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-060",
+      "section": "Chapter X",
+      "char_count": 4857,
+      "char_start": 256359,
+      "char_end": 261216,
+      "content_sha256": "96271769149b"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-061",
+      "section": "Chapter X",
+      "char_count": 4955,
+      "char_start": 261218,
+      "char_end": 266173,
+      "content_sha256": "76a96660e5aa"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-062",
+      "section": "Chapter X",
+      "char_count": 4860,
+      "char_start": 266175,
+      "char_end": 271035,
+      "content_sha256": "c0907171be3a"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-063",
+      "section": "Chapter X",
+      "char_count": 3720,
+      "char_start": 271037,
+      "char_end": 274757,
+      "content_sha256": "141a9b0b407f"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-064",
+      "section": "Chapter X",
+      "char_count": 4333,
+      "char_start": 274759,
+      "char_end": 279092,
+      "content_sha256": "75226833a32e"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-065",
+      "section": "Chapter X",
+      "char_count": 4601,
+      "char_start": 279094,
+      "char_end": 283695,
+      "content_sha256": "e5753a6815aa"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-066",
+      "section": "Chapter Xi",
+      "char_count": 4800,
+      "char_start": 283697,
+      "char_end": 288497,
+      "content_sha256": "3225a6f21769"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-067",
+      "section": "Chapter Xi",
+      "char_count": 3961,
+      "char_start": 288499,
+      "char_end": 292460,
+      "content_sha256": "d2a9d7d54685"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-068",
+      "section": "Chapter Xi",
+      "char_count": 4567,
+      "char_start": 292462,
+      "char_end": 297029,
+      "content_sha256": "dfa628e3a466"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-069",
+      "section": "Chapter Xi",
+      "char_count": 4833,
+      "char_start": 297031,
+      "char_end": 301864,
+      "content_sha256": "1d5c4046b326"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-070",
+      "section": "Chapter Xi",
+      "char_count": 4941,
+      "char_start": 301866,
+      "char_end": 306807,
+      "content_sha256": "1e783c791b98"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-071",
+      "section": "Chapter Xii",
+      "char_count": 3840,
+      "char_start": 306809,
+      "char_end": 310649,
+      "content_sha256": "01bcc73a7d85"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-072",
+      "section": "Chapter Xii",
+      "char_count": 4851,
+      "char_start": 310651,
+      "char_end": 315502,
+      "content_sha256": "4448abcb0e26"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-073",
+      "section": "Chapter Xii",
+      "char_count": 4338,
+      "char_start": 315504,
+      "char_end": 319842,
+      "content_sha256": "02454a1beda2"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-074",
+      "section": "Chapter Xii",
+      "char_count": 4383,
+      "char_start": 319844,
+      "char_end": 324227,
+      "content_sha256": "799b89b06b47"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-075",
+      "section": "Chapter Xii",
+      "char_count": 4368,
+      "char_start": 324229,
+      "char_end": 328597,
+      "content_sha256": "8af6b17f145e"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-076",
+      "section": "Chapter Xii",
+      "char_count": 4825,
+      "char_start": 328599,
+      "char_end": 333424,
+      "content_sha256": "fc26c5257e04"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-077",
+      "section": "Chapter Xiii",
+      "char_count": 4347,
+      "char_start": 333426,
+      "char_end": 337773,
+      "content_sha256": "8e0f8bfe586c"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-078",
+      "section": "Chapter Xiii",
+      "char_count": 4744,
+      "char_start": 337775,
+      "char_end": 342519,
+      "content_sha256": "9d230ff13608"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-079",
+      "section": "Chapter Xiii",
+      "char_count": 4885,
+      "char_start": 342521,
+      "char_end": 347406,
+      "content_sha256": "c5effb0a6188"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-080",
+      "section": "Chapter Xiii",
+      "char_count": 4209,
+      "char_start": 347408,
+      "char_end": 351617,
+      "content_sha256": "ef17b74d2389"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-081",
+      "section": "Chapter Xiii",
+      "char_count": 1834,
+      "char_start": 351619,
+      "char_end": 353453,
+      "content_sha256": "8b279d0ba5f8"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-082",
+      "section": "Chapter Xiv",
+      "char_count": 4985,
+      "char_start": 353455,
+      "char_end": 358440,
+      "content_sha256": "3c20167fec6c"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-083",
+      "section": "Chapter Xiv",
+      "char_count": 4415,
+      "char_start": 358442,
+      "char_end": 362857,
+      "content_sha256": "3c935f1dc9ea"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-084",
+      "section": "Chapter Xiv",
+      "char_count": 4992,
+      "char_start": 362859,
+      "char_end": 367851,
+      "content_sha256": "234deb4ed573"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-085",
+      "section": "Chapter Xiv",
+      "char_count": 4952,
+      "char_start": 367853,
+      "char_end": 372805,
+      "content_sha256": "979fe31718ed"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-086",
+      "section": "Chapter Xv",
+      "char_count": 4313,
+      "char_start": 372807,
+      "char_end": 377120,
+      "content_sha256": "5248bb52f938"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-087",
+      "section": "Chapter Xv",
+      "char_count": 4391,
+      "char_start": 377122,
+      "char_end": 381513,
+      "content_sha256": "ba713b7b5e99"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-088",
+      "section": "Chapter Xv",
+      "char_count": 4878,
+      "char_start": 381515,
+      "char_end": 386393,
+      "content_sha256": "4c91824b2ce9"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-089",
+      "section": "Chapter Xv",
+      "char_count": 4335,
+      "char_start": 386395,
+      "char_end": 390730,
+      "content_sha256": "897744e1de13"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-090",
+      "section": "Chapter Xv",
+      "char_count": 4967,
+      "char_start": 390732,
+      "char_end": 395699,
+      "content_sha256": "ad9323c374a1"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-091",
+      "section": "Chapter Xv",
+      "char_count": 4417,
+      "char_start": 395701,
+      "char_end": 400118,
+      "content_sha256": "0fedee9a789e"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-092",
+      "section": "Chapter Xv",
+      "char_count": 2385,
+      "char_start": 400120,
+      "char_end": 402505,
+      "content_sha256": "38169ee0a0f3"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-093",
+      "section": "Chapter Xvi",
+      "char_count": 4445,
+      "char_start": 402507,
+      "char_end": 406952,
+      "content_sha256": "f549b63e48f1"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-094",
+      "section": "Chapter Xvi",
+      "char_count": 4035,
+      "char_start": 406954,
+      "char_end": 410989,
+      "content_sha256": "a468e5c46b00"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-095",
+      "section": "Chapter Xvi",
+      "char_count": 4598,
+      "char_start": 410991,
+      "char_end": 415589,
+      "content_sha256": "43bae424eeb4"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-096",
+      "section": "Chapter Xvi",
+      "char_count": 3132,
+      "char_start": 415591,
+      "char_end": 418723,
+      "content_sha256": "6093eb6db85d"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-097",
+      "section": "Chapter Xvi",
+      "char_count": 3032,
+      "char_start": 418725,
+      "char_end": 421757,
+      "content_sha256": "3e7a81d8631b"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-098",
+      "section": "Chapter Xvi",
+      "char_count": 2522,
+      "char_start": 421759,
+      "char_end": 424281,
+      "content_sha256": "f44682360301"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-099",
+      "section": "Chapter Xvii",
+      "char_count": 4699,
+      "char_start": 424283,
+      "char_end": 428982,
+      "content_sha256": "319befd33378"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-100",
+      "section": "Chapter Xvii",
+      "char_count": 4064,
+      "char_start": 428984,
+      "char_end": 433048,
+      "content_sha256": "b68a3599e44d"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-101",
+      "section": "Chapter Xvii",
+      "char_count": 4898,
+      "char_start": 433050,
+      "char_end": 437948,
+      "content_sha256": "0b7d5e553b50"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-102",
+      "section": "Chapter Xvii",
+      "char_count": 4593,
+      "char_start": 437950,
+      "char_end": 442543,
+      "content_sha256": "5a6e1f750603"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-103",
+      "section": "Chapter Xvii",
+      "char_count": 3792,
+      "char_start": 442545,
+      "char_end": 446337,
+      "content_sha256": "86cbae646de4"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-104",
+      "section": "Chapter Xvii",
+      "char_count": 4788,
+      "char_start": 446339,
+      "char_end": 451127,
+      "content_sha256": "be1fd5813699"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-105",
+      "section": "Chapter Xvii",
+      "char_count": 3975,
+      "char_start": 451129,
+      "char_end": 455104,
+      "content_sha256": "cd25632e89da"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-106",
+      "section": "Chapter Xvii",
+      "char_count": 3150,
+      "char_start": 455106,
+      "char_end": 458256,
+      "content_sha256": "dac5656dee5e"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-107",
+      "section": "Chapter Xviii",
+      "char_count": 4495,
+      "char_start": 458258,
+      "char_end": 462753,
+      "content_sha256": "ae971f66b6e9"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-108",
+      "section": "Chapter Xviii",
+      "char_count": 4995,
+      "char_start": 462755,
+      "char_end": 467750,
+      "content_sha256": "5e07ee0d909e"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-109",
+      "section": "Chapter Xviii",
+      "char_count": 4058,
+      "char_start": 467752,
+      "char_end": 471810,
+      "content_sha256": "30025710e903"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-110",
+      "section": "Chapter Xviii",
+      "char_count": 4559,
+      "char_start": 471812,
+      "char_end": 476371,
+      "content_sha256": "728edc962bd6"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-111",
+      "section": "Chapter Xviii",
+      "char_count": 4606,
+      "char_start": 476373,
+      "char_end": 480979,
+      "content_sha256": "b59313c34aac"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-112",
+      "section": "Chapter Xviii",
+      "char_count": 2007,
+      "char_start": 480981,
+      "char_end": 482988,
+      "content_sha256": "b26ee38e9bc6"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-113",
+      "section": "Chapter Xix",
+      "char_count": 4445,
+      "char_start": 482990,
+      "char_end": 487435,
+      "content_sha256": "c0ee1f0b90eb"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-114",
+      "section": "Chapter Xix",
+      "char_count": 4899,
+      "char_start": 487437,
+      "char_end": 492336,
+      "content_sha256": "617235462680"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-115",
+      "section": "Chapter Xix",
+      "char_count": 4543,
+      "char_start": 492338,
+      "char_end": 496881,
+      "content_sha256": "f40418b27be4"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-116",
+      "section": "Chapter Xix",
+      "char_count": 4194,
+      "char_start": 496883,
+      "char_end": 501077,
+      "content_sha256": "dc3f4edc11e4"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-117",
+      "section": "Chapter Xix",
+      "char_count": 4516,
+      "char_start": 501079,
+      "char_end": 505595,
+      "content_sha256": "dd34649e4649"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-118",
+      "section": "Chapter Xix",
+      "char_count": 4995,
+      "char_start": 505597,
+      "char_end": 510592,
+      "content_sha256": "ce1ea3a32a85"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-119",
+      "section": "Chapter Xix",
+      "char_count": 4990,
+      "char_start": 510594,
+      "char_end": 515584,
+      "content_sha256": "7f115f815814"
+    },
+    {
+      "page_id": "pg7213-my-life-and-work:unit-120",
+      "section": "Chapter Xix",
+      "char_count": 3928,
+      "char_start": 515586,
+      "char_end": 519514,
+      "content_sha256": "4f4e213a9b38"
+    }
+  ],
+  "unit_count": 120,
+  "total_chars": 519276
+}

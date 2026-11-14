@@ -1,0 +1,99 @@
+{
+  "model": {
+    "provider": "Sentence Transformers (local)",
+    "name": "BAAI/bge-m3",
+    "dimensions": 1024,
+    "normalization": "L2",
+    "query_document_handling": "encode_query / encode_document"
+  },
+  "vector_store": "PostgreSQL + pgvector; exact cosine distance (<=>), local Compose service",
+  "strategies": {
+    "A": {
+      "chunk_count": 1191,
+      "total_chars": 572467,
+      "length_chars": {
+        "min": 59,
+        "median": 500,
+        "max": 500
+      },
+      "ingest_seconds": 0.038,
+      "reused_existing": true,
+      "cost_usd": 0
+    },
+    "B": {
+      "chunk_count": 588,
+      "total_chars": 518566,
+      "length_chars": {
+        "min": 36,
+        "median": 956,
+        "max": 1286
+      },
+      "ingest_seconds": 0.033,
+      "reused_existing": true,
+      "cost_usd": 0
+    },
+    "C": {
+      "chunk_count": 588,
+      "total_chars": 518566,
+      "length_chars": {
+        "min": 36,
+        "median": 956,
+        "max": 1286
+      },
+      "ingest_seconds": 0.037,
+      "reused_existing": true,
+      "cost_usd": 0
+    }
+  },
+  "cost_usd": 0,
+  "retrieval_metrics": {
+    "A": {
+      "dev": {
+        "n": 15,
+        "hit_at_1": 8,
+        "evidence_hit_at_3": 10,
+        "hit_at_1_rate": 0.5333333333333333,
+        "evidence_hit_at_3_rate": 0.6666666666666666
+      },
+      "test": {
+        "n": 5,
+        "hit_at_1": 2,
+        "evidence_hit_at_3": 4,
+        "hit_at_1_rate": 0.4,
+        "evidence_hit_at_3_rate": 0.8
+      }
+    },
+    "B": {
+      "dev": {
+        "n": 15,
+        "hit_at_1": 11,
+        "evidence_hit_at_3": 13,
+        "hit_at_1_rate": 0.7333333333333333,
+        "evidence_hit_at_3_rate": 0.8666666666666667
+      },
+      "test": {
+        "n": 5,
+        "hit_at_1": 3,
+        "evidence_hit_at_3": 4,
+        "hit_at_1_rate": 0.6,
+        "evidence_hit_at_3_rate": 0.8
+      }
+    },
+    "C": {
+      "dev": {
+        "n": 15,
+        "hit_at_1": 11,
+        "evidence_hit_at_3": 13,
+        "hit_at_1_rate": 0.7333333333333333,
+        "evidence_hit_at_3_rate": 0.8666666666666667
+      },
+      "test": {
+        "n": 5,
+        "hit_at_1": 4,
+        "evidence_hit_at_3": 4,
+        "hit_at_1_rate": 0.8,
+        "evidence_hit_at_3_rate": 0.8
+      }
+    }
+  }
+}
